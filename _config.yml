@@ -1,4 +1,3 @@
-layout_spectrum: 0.5998766787815839
 typography_spectrum: 0.6964419675059617
 color:
   brandStrength: 0.007989492500200868
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.5998766787815839
 name: FIT MAMA REPUBLIC
+title: Fit Mama Republic
