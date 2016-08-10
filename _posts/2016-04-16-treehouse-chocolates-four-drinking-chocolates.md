@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T06:36:43.905Z'
+datePublished: '2016-08-10T07:20:59.175Z'
 sourcePath: _posts/2016-04-16-treehouse-chocolates-four-drinking-chocolates.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,25 +18,20 @@ keywords:
   - sweet
 related: []
 author: []
-dateModified: '2016-08-10T06:36:42.672Z'
-title: Treehouse Chocolate's Four Drinking Chocolates
+via: {}
+dateModified: '2016-08-10T07:20:58.708Z'
+title: Welcome To Fit Mama Republic!
 app_links: []
 publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
-description: >-
-  Winter may be officially over in the Northern Hemisphere, but that doesn't
-  mean hot chocolate has to disappear from people's radar until temperatures
-  cool again. For some of us, it makes for a viable alternative to coffee in the
-  morning-with some serious sugar and cocoa kick.
+  name: Charisse Lain
+description: 'Welcome To Fit Mama Republic! '
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="http://assets.coolhunting.com/coolhunting/2016/04/06/large_Treehouse-Drinking-Choco-01.jpg" /></article>
+![Welcome To Fit Mama Republic! ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1b9961-295d-458d-9236-7585f1d5550e.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg" /><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p></article>
