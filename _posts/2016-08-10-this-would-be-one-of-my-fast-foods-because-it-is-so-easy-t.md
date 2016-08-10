@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-10T07:55:22.349Z'
+datePublished: '2016-08-10T07:56:36.277Z'
+sourcePath: >-
+  _posts/2016-08-10-this-would-be-one-of-my-fast-foods-because-it-is-so-easy-t.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T07:55:16.897Z'
+dateModified: '2016-08-10T07:56:35.713Z'
 title: ''
-publisher: {}
+publisher:
+  name: Charisse Lain
 description: >-
   This would be one of my “fast-foods” because it is so easy to make, it’s
   healthy and it is heart-warming! If you are on a tight budget yet still want
   to eat healthy, then worry not, because you can easily afford these
   ingredients! 
 starred: false
-sourcePath: >-
-  _posts/2016-08-10-this-would-be-one-of-my-fast-foods-because-it-is-so-easy-t.md
 url: this-would-be-one-of-my-fast-foods-because-it-is-so-easy-t/index.html
 _type: Blurb
 
