@@ -1,16 +1,16 @@
-typography_spectrum: 0.6964419675059617
+typography_spectrum: 0.9182029073126614
 color:
-  brandStrength: 0.007989492500200868
-  lightness: 0.07726301834918559
-  saturation: 0.91435033432208
-  rhythmicContrast: 0.5202086376957595
+  brandStrength: 0.3140326051507145
+  lightness: 0.1392142134718597
+  saturation: 0.969361977186054
+  rhythmicContrast: 0.6054362107533962
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.5998766787815839
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.7659915836993605
 name: FIT MAMA REPUBLIC
 title: Fit Mama Republic
 description: Eat Well. Live Well. Love Strong!
